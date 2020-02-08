@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 import datetime
-import random
 
 # Classe Pai
 class Uart(object):
